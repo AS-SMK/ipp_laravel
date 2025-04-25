@@ -2,7 +2,7 @@
 echo"hello world";
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
-
+//hello
 define('LARAVEL_START', microtime(true));
 
 /*
